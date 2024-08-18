@@ -19,7 +19,7 @@ This guide provides detailed steps to deploy a website on an Amazon EC2 instance
 ## Prerequisites
 Before you begin, ensure you have the following:
 - An AWS account.
-- A locally installed RDP client (e.g., Remote Desktop Connection on Windows).
+- A locally installed RDP client (e.g., Remote Desktop Connection on Windows) or you will get the download link while connecting.
 - Website files ready for deployment.
 - Basic understanding of AWS and Windows Server.
 
@@ -58,5 +58,4 @@ Before you begin, ensure you have the following:
 3. **Backup**:
    - Use EBS snapshots for regular backups.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
